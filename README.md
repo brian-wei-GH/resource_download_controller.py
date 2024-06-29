@@ -3,7 +3,7 @@ this controller can download pictures from the internet when the users select th
 
 environment: {
     Python: 3.12.4,
-    pycharm: 2024.1.3 pro
+    pycharm: 2024.1.3 pro,
     requests: 2.32.3
 }
 
