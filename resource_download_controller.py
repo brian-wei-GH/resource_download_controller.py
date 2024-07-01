@@ -1,7 +1,7 @@
 import requests
 
 
-# "requests" can only download very limit resource online. not include YT (so, the system only available for pictures)
+# "requests" cannot download the resource, which includes YT (so, the system is only available for pictures)
 def download(url, file_name):
     pic_dwl = requests.get(
         url=url,
